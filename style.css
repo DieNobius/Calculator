@@ -31,21 +31,10 @@
     justify-items: center;
 }
 
-
 .btn:last-child {
     width: 100%;
     grid-column: span 2;
 }
-
-/* .buttons {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 5px;
-  padding: 3px 7px;
-  :last-child {
-    grid-column: span 2;
-  }
-} */
 
 .btn {
     width: 40px;
